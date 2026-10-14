@@ -1,0 +1,10 @@
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.csproj.AssemblyReference.cache
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.FrmProduct.resources
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.csproj.GenerateResource.cache
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.csproj.CoreCompileInputs.cache
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\bin\Debug\ProductManager.exe.config
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\bin\Debug\ProductManager.exe
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\bin\Debug\ProductManager.pdb
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.exe
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.pdb
+D:\DAiHOCSUPHAMHCM_FILEHOCTAP\LaptrinhWins\ProductManager_Lab06\ProductManager\obj\Debug\ProductManager.exe.config
